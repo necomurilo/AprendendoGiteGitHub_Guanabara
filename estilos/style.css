@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
 
 }
 
 main {
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
