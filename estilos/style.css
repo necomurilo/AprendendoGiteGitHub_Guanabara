@@ -1,6 +1,10 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
     font-size: 14px;
+=======
+    font-size: 16px;
+>>>>>>> parent of 331f076 (correção)
 }
 
 body {
@@ -17,6 +21,7 @@ main {
 <<<<<<< HEAD
 <<<<<<< HEAD
     background-color: rgb(255, 255, 255);
+<<<<<<< HEAD
     width: 450px;
 =======
 =======
@@ -33,5 +38,11 @@ main {
     margin: auto;
     padding: 30px;
     box-shadow: 3px 3px 6px black;
+=======
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+>>>>>>> parent of 331f076 (correção)
 
 }
